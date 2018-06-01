@@ -19,12 +19,12 @@ nav{
 	text-align: ;
 }
 
-li{
+body nav li {
 	background-color: ;
-	display: ;
-	margin: ;
-	padding: ;
-	float: left;
+	display: inline-block;
+	margin: 10px 20px;
+	padding: 20px;
+	
 }
 
 a{
@@ -32,21 +32,21 @@ a{
 	text-decoration: ;
 }
 
-section{
+section {
 	background-color: ;
 	text-align: ;
 }
 
-.box{
+.box {
 	display: inline-block;
 	width: 30%;
 }
 
-.image{
+img {
 	width: 100%;
 }
 
-.p{
+.p {
 	background-color:; 
 	border:;
 	padding: ;
